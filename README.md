@@ -19,8 +19,14 @@ Este proyecto es una simple aplicación de lista de tareas (To-Do List) creada c
 
 ![Captura de pantalla de la aplicación](captura.png)
 
+## Enlace
+
+Puedes ver el proyecto en vivo aquí: [To-Do List en GitHub Pages](https://j-srz.github.io/TodoList-JS/)
+
+
+
 ## Instalación
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/TodoList-JS.git
+   git clone https://github.com/j-srz/TodoList-JS
